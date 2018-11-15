@@ -240,7 +240,7 @@ function TemplateManager(process, shiftToMatch) {
         start_lambda: 1973.10336652,
         end_lambda: 6188.86913229,
         z_start: 0.5,
-        z_end: 1.6,
+        z_end: 1.54,
         log_linear: false,
         // features:       ['Lyb','Lya','N5','Si4','C4','C3','Mg2','O2','Ne3','K','H','Hd','G','Hg','Hb','O3','O3d','Mg','Na','N2','Ha','N2d','S2','S2d'],
         // featureWeights: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
